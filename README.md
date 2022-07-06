@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+<div align="left">
+<a href="https://app.daily.dev/dripto"><img src="https://api.daily.dev/devcards/ddf7e88cb6f846e084608a2332df1718.png?r=sm5" width="400" alt="Driptaroop Das's Dev Card"/></a>
+</div>
 
 ## I am Dripto
 
