@@ -50,7 +50,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@3.24
+      - uses: lowlighter/metrics@v3.24
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -82,7 +82,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-    - uses: lowlighter/metrics@3.24
+    - uses: lowlighter/metrics@v3.24
       with:
         token: ${{ secrets.METRICS_TOKEN }}
         # Base Options
@@ -105,7 +105,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps: 
-      - uses: lowlighter/metrics@3.24
+      - uses: lowlighter/metrics@v3.24
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Base Options
@@ -127,7 +127,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@3.24
+      - uses: lowlighter/metrics@v3.24
         with:
           # Base Options
           user: driptaroop
@@ -148,7 +148,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:  
-      - uses: lowlighter/metrics@3.24
+      - uses: lowlighter/metrics@v3.24
         with:
           # Base Options
           user: driptaroop
@@ -168,7 +168,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps: 
-      - uses: lowlighter/metrics@3.24
+      - uses: lowlighter/metrics@v3.24
         with:
           # Base Options
           user: driptaroop
