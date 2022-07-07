@@ -36,7 +36,7 @@
 
 </div>
 
-<div style="text-align: left">
+<div style="text-align: right">
 
 ![twitter](https://raw.githubusercontent.com/driptaroop/driptaroop/main/twitter.svg)
 
