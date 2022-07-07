@@ -12,13 +12,13 @@
     </a>
 </div>
 
+## I am Dripto
+
 <div align="right">
 <a href="https://app.daily.dev/dripto">
         <img src="https://github.com/driptaroop/driptaroop/blob/main/devcard.svg" width="400" alt="Driptaroop Das's Dev Card"/>
     </a>
 </div>
-
-## I am Dripto
 
 <div align="left">
 
