@@ -141,7 +141,7 @@ jobs:
           # Plugin Options
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 1847184
-          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_sections: questions-recent
           plugin_stackoverflow_limit: 2
 
   twitter:
@@ -183,5 +183,6 @@ jobs:
 
           # Plugin Options
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_user: driptaroop
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
