@@ -2,6 +2,9 @@ name: DevCard
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *"
 
@@ -59,6 +62,7 @@ jobs:
           config_timezone: Europe/Berlin
           config_output: svg
           filename: language.svg
+          config_display: large
           
           # Plugin Options
           plugin_languages: yes
@@ -94,7 +98,6 @@ jobs:
         plugin_achievements: yes
         plugin_achievements_display: compact
         plugin_achievements_secrets: yes
-        plugin_achievements_threshold: B
 
   habits:
     permissions:

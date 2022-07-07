@@ -27,23 +27,26 @@
 
 </div>
 
-<div align="right">
-
 ![language](https://raw.githubusercontent.com/driptaroop/driptaroop/main/language.svg)
-
-</div>
-
-<div align="right">
-
 ![habits](https://raw.githubusercontent.com/driptaroop/driptaroop/main/habits.svg)
 
+<div style="text-align: left">
+
+![stackoverflow](https://raw.githubusercontent.com/driptaroop/driptaroop/main/stackoverflow.svg)
+
 </div>
 
-![achievements](https://raw.githubusercontent.com/driptaroop/driptaroop/main/achievements.svg)
-![stackoverflow](https://raw.githubusercontent.com/driptaroop/driptaroop/main/stackoverflow.svg)
+<div style="text-align: left">
+
 ![twitter](https://raw.githubusercontent.com/driptaroop/driptaroop/main/twitter.svg)
+
+</div>
+
+
 ![wakatime](https://raw.githubusercontent.com/driptaroop/driptaroop/main/wakatime.svg)
 
+![achievements](https://raw.githubusercontent.com/driptaroop/driptaroop/main/achievements.svg)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdriptaroop%2Fdriptaroop&labelColor=%23d9e3f0&countColor=%232ccce4&style=flat-square&labelStyle=upper)
 ![Twitter Follow](https://img.shields.io/twitter/follow/driptaroop?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/driptaroop?style=social)
