@@ -2,13 +2,20 @@
 
 <div align="left">
     <a href="https://twitter.com/driptaroop">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/driptaroop?style=for-the-badge">
+        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/driptaroop?style=for-the-badge"/>
     </a>
     <a href="https://github.com/driptaroop">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/driptaroop?style=for-the-badge">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/driptaroop?style=for-the-badge"/>
     </a>
     <a href="https://www.linkedin.com/in/driptaroop/">
-        <img alt="LinkedIn connect" src="https://img.shields.io/badge/LinkedIn-%E2%98%86-0077B5?style=for-the-badge&logo=LinkedIn">
+        <img alt="LinkedIn connect" src="https://img.shields.io/badge/LinkedIn-%E2%98%86-0077B5?style=for-the-badge&logo=LinkedIn"/>
+    </a>
+    <a href="https://app.daily.dev/dripto" target="_blank">
+        <img 
+        src="https://github.com/driptaroop/driptaroop/blob/main/devcard.svg" 
+        width="256" 
+        align="right" 
+        alt="Driptaroop Das's Dev Card"/>
     </a>
 </div>
 
@@ -17,10 +24,6 @@
 <div align="left">
 
 ![Metrics](https://raw.githubusercontent.com/driptaroop/driptaroop/main/github-metrics.svg)
-
-<a href="https://app.daily.dev/dripto">
-        <img src="https://github.com/driptaroop/driptaroop/blob/main/devcard.svg" width="256" align="right" alt="Driptaroop Das's Dev Card"/>
-    </a>
 
 </div>
 
