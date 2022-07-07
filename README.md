@@ -14,15 +14,13 @@
 
 ## I am Dripto
 
-<div align="right">
-<a href="https://app.daily.dev/dripto">
-        <img src="https://github.com/driptaroop/driptaroop/blob/main/devcard.svg" width="256" alt="Driptaroop Das's Dev Card"/>
-    </a>
-</div>
-
 <div align="left">
 
 ![Metrics](https://raw.githubusercontent.com/driptaroop/driptaroop/main/github-metrics.svg)
+
+<a href="https://app.daily.dev/dripto">
+        <img src="https://github.com/driptaroop/driptaroop/blob/main/devcard.svg" width="256" align="right" alt="Driptaroop Das's Dev Card"/>
+    </a>
 
 </div>
 
