@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋, I'm Dripto.
 
 <div align="left">
     <a href="https://twitter.com/driptaroop">
@@ -19,7 +19,11 @@
     </a>
 </div>
 
-## I am Dripto
+## 🤷 Who am I 🤷
+
+- I am a Lead Software Engineer 💻 in DKb Code Factory 🏦
+- I am a backend engineer with some front end knowledge 😉 
+- Self diagnosed nerd 🤓 and avid board gamer 🎲
 
 <div align="left">
     <img src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/github-metrics.svg" alt="Metrics"/>
