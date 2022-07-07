@@ -45,11 +45,11 @@ jobs:
           repositories_forks: yes
           filename: github-metrics.svg
     
-    languages:
-      permissions:
-        contents: write
-      runs-on: ubuntu-latest
-      steps:
+  languages:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
       - uses: lowlighter/metrics@3.24
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -77,12 +77,12 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used, recently-used
 
-    achievements:
-      permissions:
-        contents: write
-      runs-on: ubuntu-latest
-      steps:
-      - uses: lowlighter/metrics@3.24
+  achievements:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+    - uses: lowlighter/metrics@3.24
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Base Options
@@ -100,11 +100,11 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: B
 
-    habits:
-      permissions:
-        contents: write
-      runs-on: ubuntu-latest
-      steps: 
+  habits:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps: 
       - uses: lowlighter/metrics@3.24
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -122,11 +122,11 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-    stackoverflow:
-      permissions:
-        contents: write
-      runs-on: ubuntu-latest
-      steps:
+  stackoverflow:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
       - uses: lowlighter/metrics@3.24
         with:
           # Base Options
@@ -143,11 +143,11 @@ jobs:
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
 
-    twitter:
-      permissions:
-        contents: write
-      runs-on: ubuntu-latest
-      steps:  
+  twitter:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:  
       - uses: lowlighter/metrics@3.24
         with:
           # Base Options
@@ -163,11 +163,11 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_user: driptaroop
 
-    wakatime:
-      permissions:
-        contents: write
-      runs-on: ubuntu-latest
-      steps: 
+  wakatime:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps: 
       - uses: lowlighter/metrics@3.24
         with:
           # Base Options
