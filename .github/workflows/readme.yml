@@ -129,6 +129,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.24
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           # Base Options
           user: driptaroop
           template: classic
@@ -150,6 +151,7 @@ jobs:
     steps:  
       - uses: lowlighter/metrics@v3.24
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           # Base Options
           user: driptaroop
           template: classic
@@ -170,6 +172,7 @@ jobs:
     steps: 
       - uses: lowlighter/metrics@v3.24
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           # Base Options
           user: driptaroop
           template: classic
