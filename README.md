@@ -28,11 +28,11 @@
 ![language](https://raw.githubusercontent.com/driptaroop/driptaroop/main/language.svg)
 
 <div align="left">
-    <img src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/habits.svg" alt="habits" width="70%"/>
+    <img src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/habits.svg" alt="habits"/>
 </div>
 <br/>
 <div align="left">
-    <img src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/stackoverflow.svg" alt="stackoverflow" width="50%"/>
+    <img src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/stackoverflow.svg" alt="stackoverflow" width="256"/>
     <img src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/wakatime.svg" alt="wakatime" align="right" width="50%"/>
 </div>
 
