@@ -12,7 +12,7 @@
     </a>
     <a href="https://app.daily.dev/dripto" target="_blank">
         <img 
-        src="https://github.com/driptaroop/driptaroop/blob/main/devcard.svg" 
+        src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/devcard.svg" 
         width="256" 
         align="right" 
         alt="Driptaroop Das's Dev Card"/>
@@ -22,9 +22,7 @@
 ## I am Dripto
 
 <div align="left">
-
-![Metrics](https://raw.githubusercontent.com/driptaroop/driptaroop/main/github-metrics.svg)
-
+    <img src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/github-metrics.svg" alt="Metrics"/>
 </div>
 
 ![language](https://raw.githubusercontent.com/driptaroop/driptaroop/main/language.svg)
