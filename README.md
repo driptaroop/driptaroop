@@ -10,17 +10,35 @@
     <a href="https://www.linkedin.com/in/driptaroop/">
         <img alt="LinkedIn connect" src="https://img.shields.io/badge/LinkedIn-%E2%98%86-0077B5?style=for-the-badge&logo=LinkedIn">
     </a>
-    <a href="https://app.daily.dev/dripto">
+</div>
+
+<div align="right">
+<a href="https://app.daily.dev/dripto">
         <img src="https://github.com/driptaroop/driptaroop/blob/main/devcard.svg" width="400" alt="Driptaroop Das's Dev Card"/>
     </a>
 </div>
 
 ## I am Dripto
 
+<div align="left">
+
 ![Metrics](https://raw.githubusercontent.com/driptaroop/driptaroop/main/github-metrics.svg)
+
+</div>
+
+<div align="right">
+
 ![language](https://raw.githubusercontent.com/driptaroop/driptaroop/main/language.svg)
-![achievements](https://raw.githubusercontent.com/driptaroop/driptaroop/main/achievements.svg)
+
+</div>
+
+<div align="right">
+
 ![habits](https://raw.githubusercontent.com/driptaroop/driptaroop/main/habits.svg)
+
+</div>
+
+![achievements](https://raw.githubusercontent.com/driptaroop/driptaroop/main/achievements.svg)
 ![stackoverflow](https://raw.githubusercontent.com/driptaroop/driptaroop/main/stackoverflow.svg)
 ![twitter](https://raw.githubusercontent.com/driptaroop/driptaroop/main/twitter.svg)
 ![wakatime](https://raw.githubusercontent.com/driptaroop/driptaroop/main/wakatime.svg)
