@@ -1,7 +1,5 @@
 name: DevCard
 
-permissions:
-  contents: write
 on:
   workflow_dispatch:
   push:
@@ -11,9 +9,33 @@ on:
 
 jobs:
   devcard:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.6
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+  gh-metrics:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with: 
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: driptaroop
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Berlin
