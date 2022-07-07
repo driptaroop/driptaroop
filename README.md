@@ -26,22 +26,16 @@
 </div>
 
 ![language](https://raw.githubusercontent.com/driptaroop/driptaroop/main/language.svg)
-![habits](https://raw.githubusercontent.com/driptaroop/driptaroop/main/habits.svg)
 
-<div style="text-align: left">
-
-![stackoverflow](https://raw.githubusercontent.com/driptaroop/driptaroop/main/stackoverflow.svg)
-
+<div align="left">
+    <img src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/habits.svg" alt="habits" width="70%"/>
+    <img src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/wakatime.svg" alt="wakatime" align="right" width="30%"/>
 </div>
-
-<div style="text-align: right">
-
-![twitter](https://raw.githubusercontent.com/driptaroop/driptaroop/main/twitter.svg)
-
+<br/>
+<div align="left">
+    <img src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/stackoverflow.svg" alt="stackoverflow" width="50%"/>
+    <img src="https://raw.githubusercontent.com/driptaroop/driptaroop/main/twitter.svg" alt="twitter" align="right" width="50%"/>
 </div>
-
-
-![wakatime](https://raw.githubusercontent.com/driptaroop/driptaroop/main/wakatime.svg)
 
 ![achievements](https://raw.githubusercontent.com/driptaroop/driptaroop/main/achievements.svg)
 

@@ -92,6 +92,7 @@ jobs:
         base: ""
         config_timezone: Europe/Berlin
         config_output: svg
+        config_display: large
         filename: achievements.svg
 
         # Plugin Options
