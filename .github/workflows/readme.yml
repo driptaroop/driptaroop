@@ -23,7 +23,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.27
+      - uses: lowlighter/metrics@v3.28
         with: 
           # Your GitHub token
           # The following scopes are required:
@@ -51,7 +51,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.27
+      - uses: lowlighter/metrics@v3.28
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -83,7 +83,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-    - uses: lowlighter/metrics@v3.27
+    - uses: lowlighter/metrics@v3.28
       with:
         token: ${{ secrets.METRICS_TOKEN }}
         # Base Options
@@ -105,7 +105,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps: 
-      - uses: lowlighter/metrics@v3.27
+      - uses: lowlighter/metrics@v3.28
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Base Options
@@ -127,7 +127,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.27
+      - uses: lowlighter/metrics@v3.28
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Base Options
@@ -149,7 +149,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:  
-      - uses: lowlighter/metrics@v3.27
+      - uses: lowlighter/metrics@v3.28
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Base Options
@@ -170,7 +170,7 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps: 
-      - uses: lowlighter/metrics@v3.27
+      - uses: lowlighter/metrics@v3.28
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Base Options
