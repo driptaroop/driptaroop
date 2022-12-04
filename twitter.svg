@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="121" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="154" class="">
     <defs>
         <style/>
     </defs>
@@ -22,9 +22,12 @@
                             driptaroop
                         </div>
                         <div class="tweet">
-                            <span class="mention">@shreyas</span>
-                            <span class="mention">@SaveToNotion</span>
-                            <div class="date">00:09:31 on 27 Nov 2022</div>
+                            RT
+                            <span class="mention">@Rudcher</span>
+                            : Google Maps changed its URL from "https://maps [dot] google [dot] com" to "https://google [dot] com/maps".
+                            <br />
+                            Looks like it's no…
+                            <div class="date">10:02:59 on 3 Dec 2022</div>
                         </div>
                     </section>
                 </div>
