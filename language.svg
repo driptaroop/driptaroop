@@ -140,13 +140,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 297b of code in 3 edited files across 4 commits over last 2 days</small>
+                <small>estimation from 378b of code in 4 edited files across 6 commits over last 3 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="920" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="710.0845070422534" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="710.0845070422534" y="0" width="209.9154929577465" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -159,11 +160,23 @@
                             </div>
                             <small>
                                 <div>274 bytes</div>
-                                <div>100%</div>
+                                <div>77.18%</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Kotlin
+                            </div>
+                            <small>
+                                <div>81 bytes</div>
+                                <div>22.82%</div>
+                            </small>
+                        </div>
                     </section>
                     <section>
                     </section>
